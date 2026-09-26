@@ -143,4 +143,4 @@ npx mikro-orm migration:fresh    # Drop the database and migrate up to the lates
 
 Use :create to start from scratch, and then :up to migrate to subsequent versions when changes in the schema occur.
 
-Enjoy!
+Enjoy!!
