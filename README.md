@@ -141,4 +141,6 @@ npx mikro-orm migration:pending  # List all pending migrations
 npx mikro-orm migration:fresh    # Drop the database and migrate up to the latest version
 ```
 
-Use :create to start from scratch, and then :up to migrate to subsequent versions when changes in the schema occur. 
+Use :create to start from scratch, and then :up to migrate to subsequent versions when changes in the schema occur.
+
+Enjoy!
